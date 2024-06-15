@@ -48,6 +48,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: co-corresponding authors)
 
 
+
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) [![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)](https://github.com/HowieHwong/TrustLLM)
 [![ibm](https://img.shields.io/badge/Invited%20Talk-IBM%20Research-blue)](https://research.ibm.com/)
 [![huggingface](https://img.shields.io/badge/huggingface-Daily%20Paper-yellow)]()
@@ -59,7 +60,8 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/)
 
 </div>
-</div>****
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -68,17 +70,12 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-
 *2021.09 - 2025.06 (expected), BEng., <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
