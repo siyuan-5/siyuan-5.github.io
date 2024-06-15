@@ -28,6 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/metatool_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,8 +46,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 ![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/abs/2401.05561)
 
-Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: co-corresponding authors)
-
+**Yue Huang** \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: co-corresponding authors)
 
 
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) [![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)](https://github.com/HowieHwong/TrustLLM)
@@ -60,15 +60,9 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/)
 
 </div>
-
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 
 
