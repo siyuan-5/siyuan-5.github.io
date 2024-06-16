@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Siyuan Wu, I’m a junior student at <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) .
+Hi, I’m Siyuan Wu, I’m a junior student at <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/). I have the privilege of being a visiting student to LAIR, where I work with Prof. Lichao Sun at Lehigh University and Prof.Yao Wan at HUST.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+
+
+# 💡 Research Interest
+
+- LLM-based Agents: tool usage, efficiency and utility.
+- Trustworthy AI: safety, truthfulness, fairness, robustness, privacy and machine ethics of AI model.
+- LLM4Code: code intelligence,apply LLMs to solve code-relevant tasks.
 
 # 🔥 News
 - *2024.05.02*: &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
