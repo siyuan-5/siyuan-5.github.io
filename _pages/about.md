@@ -69,3 +69,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 # 📖 Educations
 *2021.09 - 2025.06 (expected), BEng., <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) 
 
+
+# 💻 Internships
+
+- *2023.04 - (now)*,  AI research intern, Huazhong University of Science and Technology, working under the guidance of Prof. [Yao Wan](http://wanyao.me/).
