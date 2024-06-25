@@ -53,7 +53,7 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 ![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/abs/2401.05561)
 
-Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Chujie Gao \*, Yixin Huang \*, Wenhan Lyu \*, Yixuan Zhang \*, Xiner Li \*, Zhengliang Liu \*, Yixin Liu \*, Yijue Wang \*, Zhikun Zhang \*, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu , Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
 
 
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) [![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)](https://github.com/HowieHwong/TrustLLM)
