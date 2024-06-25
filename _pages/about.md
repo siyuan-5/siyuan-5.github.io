@@ -76,7 +76,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 
 **GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/abs/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
 
-**Dongping Chen** \*, Yue Huang \*, Siyuan Wu \*, Jingyu Tang \*, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun
+Dongping Chen \*, Yue Huang \*, **Siyuan Wu** \*, Jingyu Tang \*, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang, **Siyuan Wu**, Qihui Zhang, Chujie Gao
 
 ***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model** [[PDF]](https://arxiv.org/abs/2406.00380) [[Github]](https://github.com/Flossiee/HonestyLLM) 
 
-Chujie Gao \*, Qihui Zhang \*, **Dongping Chen** \*, Yue Huang, Siyuan Wu, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
+Chujie Gao \*, Qihui Zhang \*, Dongping Chen \*, Yue Huang, **Siyuan Wu**, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
 
 
 </div>
