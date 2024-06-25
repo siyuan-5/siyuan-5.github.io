@@ -99,6 +99,6 @@ Chujie Gao \*, Qihui Zhang \*, **Dongping Chen** \*, Yue Huang, Siyuan Wu, Zheng
 *2021.09 - 2025.06 (expected), BEng., <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) 
 
 
-# 💻 Internships
+<!-- # 💻 Internships
 
-- *2023.04 - (now)*,  AI research intern, Huazhong University of Science and Technology, working under the guidance of Prof. [Yao Wan](http://wanyao.me/).
+- *2023.04 - (now)*,  AI research intern, Huazhong University of Science and Technology, working under the guidance of Prof. [Yao Wan](http://wanyao.me/). -->
