@@ -71,6 +71,21 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 
 # 🍀 Preprint
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniGen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models** 
+ 
+[[PDF]](https://arxiv.org/abs/2406.00380) [[Github]](https://github.com/HowieHwong/UniGen) [[Website]](https://unigen-framework.github.io/)
+
+**Siyuan Wu** \*, Yue Huang \*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GUI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
