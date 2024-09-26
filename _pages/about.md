@@ -51,7 +51,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 <div class='paper-box-text' markdown="1">
 
 
-![NeurIPS 2024]***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model** [[PDF]](https://arxiv.org/abs/2406.00380) [[Github]](https://github.com/Flossiee/HonestyLLM) 
+![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-384321)***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model** [[PDF]](https://arxiv.org/abs/2406.00380) [[Github]](https://github.com/Flossiee/HonestyLLM) 
 
 Chujie Gao \*, Qihui Zhang \*, Dongping Chen \*, Yue Huang, **Siyuan Wu**, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
 
