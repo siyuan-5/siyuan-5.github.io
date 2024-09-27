@@ -63,13 +63,15 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 <div class='paper-box-text' markdown="1">
 
 
-![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22)***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model**
-[**Code**](https://github.com/Flossiee/HonestyLLM) [![](https://img.shields.io/github/stars/Flossiee/HonestyLLM)](https://github.com/Flossiee/HonestyLLM)[[PDF]](https://arxiv.org/abs/2406.00380) 
-
+![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22[The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380)
+[**Code**](https://github.com/Flossiee/HonestyLLM) [![](https://img.shields.io/github/stars/Flossiee/HonestyLLM)](https://github.com/Flossiee/HonestyLLM)
 Chujie Gao \*, Qihui Zhang \*, Dongping Chen \*, Yue Huang, **Siyuan Wu**, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
 
 </div>
 </div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/metatool_00.png' alt="sym" width="100%"></div></div>
