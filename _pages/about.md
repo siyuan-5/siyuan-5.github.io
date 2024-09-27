@@ -29,8 +29,9 @@ Hi, I’m Siyuan Wu, I’m a junior student at <img src='images/HUST.png' style=
 - LLM4Code: code intelligence,apply LLMs to solve code-relevant tasks.
 
 # 🔥 News
-- *2024.05.02*: &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
-- *2024.01.15*: &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024!
+v- *2024.09*: &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/) and [Qihui](https://mask-hui.github.io/) !
+- *2024.05*: &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
+- *2024.01*: &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024!
 
 
 # 📝 Publications 
@@ -62,7 +63,8 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 <div class='paper-box-text' markdown="1">
 
 
-![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22)***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model** [[PDF]](https://arxiv.org/abs/2406.00380) [[Github]](https://github.com/Flossiee/HonestyLLM) 
+![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22)***The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model**
+[**Code**](https://github.com/Flossiee/HonestyLLM) [![](https://img.shields.io/github/stars/Flossiee/HonestyLLM)](https://github.com/Flossiee/HonestyLLM)[[PDF]](https://arxiv.org/abs/2406.00380) 
 
 Chujie Gao \*, Qihui Zhang \*, Dongping Chen \*, Yue Huang, **Siyuan Wu**, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
 
@@ -85,7 +87,6 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 
 # 🍀 Preprint
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UniGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
