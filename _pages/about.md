@@ -29,9 +29,9 @@ Hi, I’m Siyuan Wu, I’m a junior student at <img src='images/HUST.png' style=
 - LLM4Code: code intelligence,apply LLMs to solve code-relevant tasks.
 
 # 🔥 News
-v- *2024.09*: &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/) and [Qihui](https://mask-hui.github.io/) !
+- *2024.09*: &nbsp;🎉🎉 [HonestLLM](https://arxiv.org/abs/2406.00380) has been accepted by NeurIPS 2024! Congratulations to [Chujie](https://flossiee.github.io/) and [Yue](https://howiehwong.github.io/) !
 - *2024.05*: &nbsp;🎉🎉 [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/) has been accepted by ICML 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
-- *2024.01*: &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024!
+- *2024.01*: &nbsp;🎉🎉 [MetaTool](https://arxiv.org/abs/2310.03128) has been accepted by ICLR 2024! Congratulations to [Yue](https://howiehwong.github.io/)!
 
 
 # 📝 Publications 
