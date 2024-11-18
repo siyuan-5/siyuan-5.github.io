@@ -65,14 +65,11 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 
 ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22)[The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model](https://arxiv.org/abs/2406.00380)
 
-Chujie Gao \*, Qihui Zhang \*, Dongping Chen \*, Yue Huang, **Siyuan Wu**, Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
+Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Qihui Zhang \*, Dongping Chen \*, , Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
 
 [**Code**](https://github.com/Flossiee/HonestyLLM) [![](https://img.shields.io/github/stars/Flossiee/HonestyLLM)](https://github.com/Flossiee/HonestyLLM)
 </div>
 </div>
-
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/metatool_00.png' alt="sym" width="100%"></div></div>
@@ -124,5 +121,4 @@ Dongping Chen \*, Yue Huang \*, **Siyuan Wu** \*, Jingyu Tang \*, Liuyi Chen, Yi
 
 
 <!-- # 💻 Internships
-
 - *2023.04 - (now)*,  AI research intern, Huazhong University of Science and Technology, working under the guidance of Prof. [Yao Wan](http://wanyao.me/). -->
