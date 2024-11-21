@@ -87,20 +87,20 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 <div class='paper-box'>
 
-<div class='paper-box-text' markdown="1">
+
 
 ![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2402.14853)
 Yue Huang, Chenrui Fan, Yuan Li, **Siyuan Wu**, Tianyi Zhou, Xiangliang Zhang, Lichao Sun
-</div>
+
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024</div></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class="badge">EACL 2024</div></div></div>
+
 
 ![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) [NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries](https://arxiv.org/abs/2406.14721)
 Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui, Haidong Zhang
 
-</div>
+
 </div>
 
 
