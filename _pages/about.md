@@ -73,7 +73,12 @@ Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Qihui Zhang \*, Dongping Chen \*, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/metatool_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge">ICLR 2024</div>
+<img src='images/metatool_00.png' alt="sym" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 ![ICLR 2024](https://img.shields.io/badge/ICLR-2024-7740bd) [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)
@@ -87,15 +92,17 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 <div class='paper-box'>
 
+<div class='paper-box-text' markdown="1">
 ![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2402.14853)
 Yue Huang, Chenrui Fan, Yuan Li, **Siyuan Wu**, Tianyi Zhou, Xiangliang Zhang, Lichao Sun
-
+</div>
 </div>
 
 <div class='paper-box'>
-
+<div class='paper-box-text' markdown="1">
 ![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) [NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries](https://arxiv.org/abs/2406.14721)
 Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui, Haidong Zhang
+</div>
 </div>
 
 
