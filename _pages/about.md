@@ -63,8 +63,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/UniGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-![ICLR 2025](https://img.shields.io/badge/ICLR-2025-ff9671) **UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models** 
+![ICLR 2025](https://img.shields.io/badge/ICLR-2025-ff9671) **UniGen: Unified Synthetic Dataset Generation via Large Language Models** 
  
 [[PDF]](https://arxiv.org/abs/2406.18966) [[Github]](https://github.com/HowieHwong/UniGen) [[Website]](https://unigen-framework.github.io/)
 
@@ -81,7 +80,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-228B22) **The Best of Both Worlds*: Toward an Honest and Helpful Large Language Model**
 [[PDF]](https://arxiv.org/abs/2406.00380)
 
-Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Qihui Zhang \*, Dongping Chen \*, , Zhengyan Fu, Yao Wan, Xiangliang Zhang, Lichao Sun
+Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Dongping Chen \*,Qihui Zhang \*, Zhengyan Fu, Yao Wan, Lichao Sun, Xiangliang Zhang
 
 [**Code**](https://github.com/Flossiee/HonestyLLM) [![](https://img.shields.io/github/stars/Flossiee/HonestyLLM)](https://github.com/Flossiee/HonestyLLM)
 [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://honestllm.github.io/)
@@ -108,7 +107,8 @@ Dongping Chen \*, Yue Huang \*, **Siyuan Wu** \*, Jingyu Tang \*, Liuyi Chen, Yi
 </div>
 <div class='paper-box-text' markdown="1">
 
-![ICLR 2024](https://img.shields.io/badge/ICLR-2024-7740bd) [MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://arxiv.org/abs/2310.03128)
+![ICLR 2024](https://img.shields.io/badge/ICLR-2024-7740bd) **MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use**
+[PDF](https://arxiv.org/abs/2310.03128)
 
 Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun
 
@@ -119,15 +119,17 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) [1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?](https://arxiv.org/abs/2402.14853)
+![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) **1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?**[PDF](https://arxiv.org/abs/2402.14853)
 Yue Huang, Chenrui Fan, Yuan Li, **Siyuan Wu**, Tianyi Zhou, Xiangliang Zhang, Lichao Sun
 </div>
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) [NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries](https://arxiv.org/abs/2406.14721)
+![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) **NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries**
+[PDF](https://arxiv.org/abs/2406.14721)
 Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui, Haidong Zhang
+
 </div>
 </div>
 
