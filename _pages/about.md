@@ -133,6 +133,7 @@ Yi Gui, Zhen Li, Yao Wan, Yemin Shi, Hongyu Zhang, Yi Su, Bohua Chen, Dongping C
 
 
 <div class='paper-box-text' markdown="1">
+
 ![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) **1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?**
 [PDF](https://arxiv.org/abs/2402.14853)
 
