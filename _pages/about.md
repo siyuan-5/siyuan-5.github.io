@@ -121,24 +121,34 @@ Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, **Siyuan Wu**, Qihui Zhang, Yixin L
 </div>
 
 
+
 <div class='paper-box-text' markdown="1">
-![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) **1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?**[PDF](https://arxiv.org/abs/2402.14853)
+
+![WWW 2025](https://img.shields.io/badge/WWW-2025-4682B4) **WebCode2M: A Real-World Dataset for Code Generation from Webpage Designs**
+
+Yi Gui, Zhen Li, Yao Wan, Yemin Shi, Hongyu Zhang, Yi Su, Bohua Chen, Dongping Chen, **Siyuan Wu**, Xing Zhou, Wenbin Jiang, Hai Jin, Xiangliang Zhang
+
+</div>
+
+
+
+<div class='paper-box-text' markdown="1">
+![EMNLP 2024](https://img.shields.io/badge/EMNLP-2024-7740bd) **1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge Aggregators?**
+[PDF](https://arxiv.org/abs/2402.14853)
+
 Yue Huang, Chenrui Fan, Yuan Li, **Siyuan Wu**, Tianyi Zhou, Xiangliang Zhang, Lichao Sun
 </div>
 
 
-<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 
 ![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) **NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries**
 [PDF](https://arxiv.org/abs/2406.14721)
 Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui, Haidong Zhang
-
 </div>
 
 
-# 🍀 Preprint
-
-
+<!-- # 🍀 Preprint -->
 
 
 
