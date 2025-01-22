@@ -64,7 +64,7 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Ch
 <div class='paper-box-text' markdown="1">
 
 
-![ICLR 2025](https://img.shields.io/badge/ICLR-2025-7740bd) **UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models** 
+![ICLR 2025](https://img.shields.io/badge/ICLR-2025-ff9671) **UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models** 
  
 [[PDF]](https://arxiv.org/abs/2406.18966) [[Github]](https://github.com/HowieHwong/UniGen) [[Website]](https://unigen-framework.github.io/)
 
@@ -92,7 +92,7 @@ Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Qihui Zhang \*, Dongping Chen \*, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GUI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![ICLR 2025](https://img.shields.io/badge/ICLR-2025-7740bd) **GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/abs/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
+![ICLR 2025](https://img.shields.io/badge/ICLR-2025-ff9671) **GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents** [[PDF]](https://arxiv.org/abs/2406.10819) [[Github]](https://github.com/Dongping-Chen/GUI-World) [[Website]](https://gui-world.github.io)
 
 Dongping Chen \*, Yue Huang \*, **Siyuan Wu** \*, Jingyu Tang \*, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun
 
