@@ -145,6 +145,7 @@ Yue Huang, Chenrui Fan, Yuan Li, **Siyuan Wu**, Tianyi Zhou, Xiangliang Zhang, L
 
 ![EACL 2024](https://img.shields.io/badge/EACL-2024-7740bd) **NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries**
 [PDF](https://arxiv.org/abs/2406.14721)
+
 Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui, Haidong Zhang
 </div>
 
