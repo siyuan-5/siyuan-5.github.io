@@ -45,7 +45,7 @@ Hi, I’m Siyuan Wu, I’m a junior student at <img src='images/HUST.png' style=
 
 ![ICLR 2025](https://img.shields.io/badge/ICLR-2025-ff9671) **UniGen: Unified Synthetic Dataset Generation via Large Language Models** 
  
-[[PDF]](https://arxiv.org/abs/2406.18966) [[Github]](https://github.com/HowieHwong/UniGen) [[Website]](https://unigen-framework.github.io/)
+[[PDF]](https://arxiv.org/abs/2406.18966v3) [[Github]](https://github.com/HowieHwong/UniGen) [[Website]](https://unigen-framework.github.io/)
 
 **Siyuan Wu** \*, Yue Huang \*, Chujie Gao, Dongping Chen, Qihui Zhang, Yao Wan, Tianyi Zhou, Chaowei Xiao, Jianfeng Gao, Xiangliang Zhang, Lichao Sun
 
@@ -75,7 +75,14 @@ Chujie Gao \*, **Siyuan Wu** \*, Yue Huang\*, Dongping Chen \*,Qihui Zhang \*, Z
 
 ![ICML 2024](https://img.shields.io/badge/ICML-2024-A84111) [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/abs/2401.05561)
 
-Yue Huang \*, Lichao Sun \*, Haoran Wang\*, **Siyuan Wu** \*, Qihui Zhang \*, Chujie Gao \*, Yixin Huang, Wenhan Lyu , Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+Yue Huang \*, Lichao Sun \*, Haoran Wang \*, **Siyuan Wu** \*, Qihui Zhang \*, Yuan Li, Chujie Gao \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, et al. (*: major contribution)
+
+<details class="author-list">
+<summary>Show all authors</summary>
+
+Bertie Vidgen, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, Joaquin Vanschoren, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, William Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
+
+</details>
 
 
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) [![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)](https://github.com/HowieHwong/TrustLLM)
@@ -156,7 +163,7 @@ Wei Zhao, Zhitao Hou, **Siyuan Wu**, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang,
 
 
 # 📖 Educations
-- 2021.09 - 2025.06 (expected), BEng., <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) 
+- 2021.09 - 2025.06, BEng., <img src='images/HUST.png' style='width: 1.2em;'> [Huazhong University of Science and Technology](https://english.hust.edu.cn/) 
 
 # 💻 Services
 - 2025, Reviewer for NAACL 2025
